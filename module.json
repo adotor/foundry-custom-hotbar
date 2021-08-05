@@ -25,7 +25,7 @@
     "styles": [
       "./css/custom-hotbar.css"
       ],
-    "manifest": "https://raw.githubusercontent.com/Norc/foundry-custom-hotbar/master/module.json",
-    "download": "https://github.com/Norc/foundry-custom-hotbar/archive/v2.1.0.zip",
-    "url": "https://github.com/Norc/foundry-custom-hotbar"
+    "manifest": "https://raw.githubusercontent.com/adotor/foundry-custom-hotbar/private-release/module.json",
+    "download": "https://github.com/adotor/foundry-custom-hotbar/archive/private-release.zip",
+    "url": "https://github.com/adotor/foundry-custom-hotbar"
   }
