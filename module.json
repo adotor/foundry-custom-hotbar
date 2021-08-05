@@ -2,10 +2,10 @@
     "name": "custom-hotbar",   
     "title": "Custom Hotbar",   
     "description": "An extra fully functional hotbar (currently 1 row only) above the first.",   
-    "author": "Norc",
-    "version": "2.1.0",
+    "author": "Norc (modified by adotor)",
+    "version": "2.1.0-adotor",
     "minimumCoreVersion": "0.7.9",
-    "compatibleCoreVersion":"0.8.4",
+    "compatibleCoreVersion":"0.8.8",
     "esmodules": [
       "index.js"
       , "./lib/colorsettings/colorSettingStub.js"
