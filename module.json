@@ -2,8 +2,8 @@
     "name": "custom-hotbar",   
     "title": "Custom Hotbar",   
     "description": "An extra fully functional hotbar (currently 1 row only) above the first.",   
-    "author": "Norc",
-    "version": "2.2.0",
+    "author": "Norc (modified by adotor)",
+    "version": "2.2.0-adotor",
     "minimumCoreVersion": "9",
     "compatibleCoreVersion":"9",
     "esmodules": [
@@ -25,7 +25,7 @@
     "styles": [
       "./css/custom-hotbar.css"
       ],
-    "manifest": "https://raw.githubusercontent.com/Norc/foundry-custom-hotbar/master/module.json",
-    "download": "https://github.com/Norc/foundry-custom-hotbar/archive/v2.2.0.zip",
-    "url": "https://github.com/Norc/foundry-custom-hotbar"
+    "manifest": "https://raw.githubusercontent.com/adotor/foundry-custom-hotbar/private-release/module.json",
+    "download": "https://github.com/adotor/foundry-custom-hotbar/archive/private-release.zip",
+    "url": "https://github.com/adotor/foundry-custom-hotbar"
   }
